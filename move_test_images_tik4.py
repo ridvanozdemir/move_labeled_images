@@ -12,12 +12,12 @@ import os
 
 folder_kalacak = "E:/ridvan_2021/05_PhD/tik_ler/tik_3/kalacak/"
 folder_rcb_unrotate = "E:/ridvan_2021/05_PhD/tik_ler/tik_3/RCB_unrotate/"
-#bu klasör içindeki dosyaların isimlerini al
+#get the name of the files in this folder (bu klasör içindeki dosyaların isimlerini al)
 folder_test = "E:/ridvan_2021/05_PhD/tik_ler/tik_4/out_f20k_ele/"
 
-#bu klasörden kes
+#cut from this folder (bu klasörden kes)
 folder_rfd_v3 = "E:/ridvan_2021/05_PhD/tik_ler/tik_4/in/"
-#bu klasöre yapıştır
+#paste to this folder (bu klasöre yapıştır)
 folder_test3 = "E:/Yolo_v4/darknet/build/darknet/x64/data/pseudo/"
 folder_rfd_v2 = "E:/ridvan_2021/05_PhD/tik_ler/tik_3/R_F_D_v2/"
 
